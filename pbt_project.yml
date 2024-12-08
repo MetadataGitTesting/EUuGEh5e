@@ -1,0 +1,57 @@
+name: salvador.gleichner
+description: Mandatory
+version: 1.6.6.722
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: salvadorgleichner
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 23:46:17'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 23:46:17'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T23:46:17.176024Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '1860884878'
+  createdAt: '2024-12-08T23:46:17.176024Z'
+  type: plibMaven
+projectDependencies:
+  '269':
+    projectUID: 269
+    projectName: waltraud.lockman
+    repositoryPath: gitUri=http://gitserver:3000/dev_TCnp3Ccq_team_435/dev_TCnp3Ccq_project_269.git&subPath=
+    version: waltraud.lockman/0.0.5.109
+    isDefault: false
+    author: null
+    createdAt: '2024-12-08 23:46:15'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
